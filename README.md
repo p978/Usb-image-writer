@@ -1,6 +1,5 @@
 This is an usb image writer yea nothing much
 
-#Installation
 
 cd Usb-image-writer 
 
