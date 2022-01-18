@@ -1,9 +1,7 @@
 # Installation
 
-cd Usb-image-writer 
+- cd Usb-image-writer 
 
-Open a terminal and type
+- chmod +x ./usb-image-writer.sh
 
-chmod +x ./usb-image-writer.sh
-
-./usb-image-writer
+- ./usb-image-writer
