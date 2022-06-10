@@ -31,4 +31,4 @@ else
    exit
 fi
 
-sudo dd bs=4M if=$Please of=$USB conv=fdatasync status=progress
+sudo dd bs=4M if=$Please of=$Usb conv=fdatasync status=progress
